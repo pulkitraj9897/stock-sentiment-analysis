@@ -1,6 +1,5 @@
 # 📈 Real-Time Stock Predictor with Sentiment Analysis  
 
-![Demo](demo.gif) *Replace with your own GIF later*
 
 A Streamlit app that analyzes stock trends and social media sentiment in real-time.
 
